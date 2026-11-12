@@ -1,0 +1,44 @@
+{
+    "backup_enabled": true,
+    "detect_broken_references": true,
+    "detect_duplicates": true,
+    "detect_missing_images": true,
+    "excluded_extensions": [],
+    "excluded_filenames": [
+        "Thumbs.db",
+        ".DS_Store"
+    ],
+    "excluded_folders": [
+        ".git",
+        ".svn",
+        "node_modules",
+        "__pycache__",
+        "backup",
+        "logs",
+        "reports"
+    ],
+    "recent_file_days": 0,
+    "supported_image_extensions": [
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".gif",
+        ".webp",
+        ".svg",
+        ".avif",
+        ".ico",
+        ".bmp",
+        ".tif",
+        ".tiff"
+    ],
+    "supported_scan_extensions": [
+        ".html",
+        ".htm",
+        ".css",
+        ".js",
+        ".json",
+        ".xml",
+        ".txt"
+    ],
+    "theme": "light"
+}

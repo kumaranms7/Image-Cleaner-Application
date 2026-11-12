@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+
+# Runtime output (keep the folders via .gitkeep)
+logs/*
+reports/*
+backup/*
+!logs/.gitkeep
+!reports/.gitkeep
+!backup/.gitkeep
